@@ -1,4 +1,5 @@
-📊 YouTube Analytics Dashboard (Power BI)
+**📊 YouTube Analytics Dashboard (Power BI)
+**
 🚀 Project Overview
 
 This project presents an interactive YouTube Analytics Dashboard built using Power BI.
